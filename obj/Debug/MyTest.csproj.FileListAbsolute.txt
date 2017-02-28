@@ -30,3 +30,4 @@ E:\TestDev\MyTest\MyTest\bin\Microsoft.ApplicationInsights.xml
 E:\TestDev\MyTest\MyTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\TestDev\MyTest\MyTest\obj\Debug\MyTest.dll
 E:\TestDev\MyTest\MyTest\obj\Debug\MyTest.pdb
+E:\TestDev\MyTest\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
